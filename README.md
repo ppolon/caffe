@@ -8,6 +8,9 @@ It is developed by the Berkeley Vision and Learning Center ([BVLC](http://bvlc.e
 
 Check out the [project site](http://caffe.berkeleyvision.org) for all the details like
 
+This version is modified by Mahmudul Hasan (http://www.ee.ucr.edu/~mhasan/) to implement a fully convolutional auto-encoder.
+This version is based on POSTECH's Deconvolutional network implementation (https://github.com/HyeonwooNoh/caffe).
+
 - [DIY Deep Learning for Vision with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
 - [Tutorial Documentation](http://caffe.berkeleyvision.org/tutorial/)
 - [BVLC reference models](http://caffe.berkeleyvision.org/model_zoo.html) and the [community model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
